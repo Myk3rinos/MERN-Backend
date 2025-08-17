@@ -2,6 +2,8 @@
 Youtube tutorial: MERN Stack Tutorial for Beginners with Deployment – 2025 
 https://www.youtube.com/watch?v=F9gB5b4jgOI&ab_channel=freeCodeCamp.org
 
+All chapters are on different git branches
+
 
 ** PACKAGES **
 npm install express
