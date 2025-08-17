@@ -82,3 +82,10 @@ Endpoints is a combination of a URL and a HTTP method (GET, POST, PUT, DELETE, e
 
 ** PORTS **
 
+
+** MONGODB **
+
+** RUN SERVER **
+npm install
+npm run dev
+
