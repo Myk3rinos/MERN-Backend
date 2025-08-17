@@ -2,6 +2,8 @@
 Youtube tutorial: MERN Stack Tutorial for Beginners with Deployment – 2025 
 https://www.youtube.com/watch?v=F9gB5b4jgOI&ab_channel=freeCodeCamp.org
 
+All chapters are on different git branches
+
 
 ** PACKAGES **
 npm install express
@@ -79,6 +81,11 @@ npm install --save-dev cors // for cross origin resource sharing, allows request
 ** ROUTES **
 Endpoints is a combination of a URL and a HTTP method (GET, POST, PUT, DELETE, etc.) that let the client interact with a specific resource on the server.
 
-
 ** PORTS **
+
+** MONGODB **
+
+** RUN SERVER **
+npm install
+npm run dev
 
