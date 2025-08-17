@@ -81,9 +81,7 @@ npm install --save-dev cors // for cross origin resource sharing, allows request
 ** ROUTES **
 Endpoints is a combination of a URL and a HTTP method (GET, POST, PUT, DELETE, etc.) that let the client interact with a specific resource on the server.
 
-
 ** PORTS **
-
 
 ** MONGODB **
 
