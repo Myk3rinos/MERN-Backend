@@ -8,17 +8,17 @@ router.get("/", getAllNotes);
 //     res.status(200).send("You just fetched the notes!");
 // });
 
-router.post("/", createNote);
+// router.post("/", createNote);
 // router.post("/", (req, res) => {
 //     res.status(201).send("You just created a note!");
 // });
 
-router.put("/:id", updateNote);
+// router.put("/:id", updateNote);
 // router.put("/:id", (req, res) => {
 //     res.status(200).send("You just updated a note!");
 // });
 
-router.delete("/:id", deleteNote);
+// router.delete("/:id", deleteNote);
 // router.delete("/:id", (req, res) => {
 //     res.status(200).send("You just deleted a note!");
 // });
